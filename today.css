@@ -124,6 +124,12 @@ label {
     background: rgb(113, 113, 238);
 }
 
+.container .about-content{
+    text-align: center;
+    margin: 20px;
+    color: rgb(253, 254, 255);
+}
+
 h1{
     color: rgb(234, 234, 240);
     font-size: 55px;
