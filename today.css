@@ -274,6 +274,9 @@ h1{
     .today-table td:last-child{
         padding-right: 0;
     }
+    .today-table{
+        margin: 12px;
+    }
 
    
     
@@ -287,6 +290,10 @@ h1{
    
     .today-table{
         margin: 12px;
+    }
+
+    .today-table td{
+        font-size: 13px;
     }
 }
 
