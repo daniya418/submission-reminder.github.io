@@ -103,8 +103,29 @@ label {
     color: #cfc8c8;
 }
 
+.container .home-btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    color: #fff;
+    background: rgb(67, 67, 179);
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: 700;
+    letter-spacing: 2px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    transition: 0.3s;
+    transition-property: background;
+}
+
+.container .home-btn:hover {
+    background: rgb(113, 113, 238);
+}
+
 h1{
-    color: rgb(67, 67, 179);
+    color: rgb(234, 234, 240);
     font-size: 55px;
     text-transform: uppercase;
     font-weight: 800;
@@ -158,6 +179,8 @@ h1{
 .today-table td::before{
     color: #dd5;
 }
+
+
 
 /* Responsive styles*/
 

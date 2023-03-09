@@ -70,6 +70,7 @@ header .navigation a:hover {
     color: rgb(67, 67, 179);
     font-size: 55px;
     text-transform: uppercase;
+    text-align: center;
     font-weight: 800;
     letter-spacing: 2px;
     line-height: 60px;
@@ -93,6 +94,7 @@ header .navigation a:hover {
     justify-content: center;
     align-items: center;
     margin: auto;
+    margin-bottom: 20px;
     color: #fff;
     background: rgb(67, 67, 179);
     text-decoration: none;
