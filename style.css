@@ -67,7 +67,7 @@ header .navigation a:hover {
 }
 
 .content .info h2 {
-    color: rgb(67, 67, 179);
+    color: rgb(35, 35, 49);
     font-size: 55px;
     text-transform: uppercase;
     text-align: center;
@@ -96,7 +96,7 @@ header .navigation a:hover {
     margin: auto;
     margin-bottom: 20px;
     color: #fff;
-    background: rgb(67, 67, 179);
+    background: rgb(35, 35, 49);
     text-decoration: none;
     text-transform: uppercase;
     font-weight: 700;

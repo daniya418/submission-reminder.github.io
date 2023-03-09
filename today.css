@@ -109,7 +109,7 @@ label {
     align-items: center;
     margin: auto;
     color: #fff;
-    background: rgb(67, 67, 179);
+    background: rgb(35, 35, 49);
     text-decoration: none;
     text-transform: uppercase;
     font-weight: 700;
@@ -293,7 +293,7 @@ h1{
     }
 
     .today-table td{
-        font-size: 13px;
+        font-size: 15px;
     }
 }
 
